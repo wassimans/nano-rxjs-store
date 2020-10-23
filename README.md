@@ -1,2 +1,2 @@
 # nano-rxjs-store
-An ultra-simple state store for Javascript
+An ultra-simple application store using RxJs Subjects.
